@@ -1,0 +1,11 @@
+{
+    "production": {
+        "app_function": "gateway.app",
+        "profile_name": "default",
+        "project_name": "petapp",
+        "runtime": "python3.6",
+        "s3_bucket": "testapp-lambda",
+        "certificate_arn": "arn:aws:acm:us-east-2:213155526432:certificate/399c9bb0-e386-44c6-af81-4876d014fd18",
+        "domain": "testdomain.com"
+    }
+}
